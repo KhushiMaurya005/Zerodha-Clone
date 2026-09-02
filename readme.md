@@ -1,21 +1,38 @@
+[zerodha-readme.md](https://github.com/user-attachments/files/31736156/zerodha-readme.md)
 # Zerodha Clone
 
-A frontend clone of the Zerodha trading platform, built to practice React.js and UI design skills.
+A full-stack MERN clone of the Zerodha trading platform, built to practice full-stack development with real-world features like stock listings, dashboard, and backend data management.
 
 ## 🛠️ Tech Stack
-- React.js
-- JavaScript
-- CSS
+**Frontend:** React.js
+**Backend:** Node.js, Express.js
+**Database:** MongoDB (Mongoose)
 
 ## ✨ Features
-- Stock/dashboard UI similar to Zerodha
-- Responsive layout
-- Component-based architecture using React
+- Trading dashboard with stock/portfolio view
+- Backend API for managing user and stock data
+- Full-stack architecture (frontend + backend + database)
+
+## 📁 Project Structure
+
+Zerodha-Clone/
+├── frontend/     # React frontend
+├── backend/      # Node.js + Express + MongoDB backend
+└── dashboard/    # Dashboard module
 
 ## 🚀 How to Run Locally
 
-```bash
-git clone https://github.com/KhushiMaurya005/Zerodha-Clone.git
-cd Zerodha-Clone
+**Backend:**
+
+cd backend
 npm install
 npm start
+
+**Frontend:**
+
+cd frontend
+npm install
+npm start
+
+## 🔗 Live Demo
+Coming soon (will be added after deployment)
