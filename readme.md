@@ -34,5 +34,7 @@ cd frontend
 npm install
 npm start
 
-## 🔗 Live Demo
-Coming soon (will be added after deployment)
+## 🚀 Live Demo
+
+- **Frontend:** [zerodha-clone-frontend-tawny.vercel.app](https://zerodha-clone-frontend-tawny.vercel.app)
+- **Backend:** [zerodha-clone-5-zk67.onrender.com](https://zerodha-clone-5-zk67.onrender.com)
